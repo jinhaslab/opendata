@@ -1,4 +1,4 @@
-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
+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
 echo "# oem_methods" >> README.md
 git init
 git add README.md
@@ -20,4 +20,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/jinhaslab/dashprj.git
 git push -u origin main
 
-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
+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
